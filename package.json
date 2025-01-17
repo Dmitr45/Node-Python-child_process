@@ -19,6 +19,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "express": "^4.16.4",
-    "python-shell": "^5.0.0"
+    "python-shell": "^5.0.0",
+    "zip-a-folder": "^3.1.8"
   }
 }

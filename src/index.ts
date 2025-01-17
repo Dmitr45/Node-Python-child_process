@@ -23,8 +23,6 @@ args: ["Dmitrii", "41"]
 }; 
 
 
-
-
 PythonShell.run( PyFile, Options).then(messages=>{
     console.log(messages.toString());
 });
